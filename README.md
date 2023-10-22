@@ -19,12 +19,15 @@ I am also one of the founders of <a href="https://sportcooks.fr">Sportcooks</a>,
 
 <p align="left">
     <a href="https://www.youtube.com/watch?v=m3RL3q7mTx0">
-      <img src="https://i.ytimg.com/an_webp/m3RL3q7mTx0/mqdefault_6s.webp?du=3000&sqp=CNjM1qkG&rs=AOn4CLCadoxpkHtycpqacLjC2xQfTSghqg" alt="Youtube video" height="75px"/>
+      <img src="https://i.ytimg.com/an_webp/m3RL3q7mTx0/mqdefault_6s.webp?du=3000&sqp=CNjM1qkG&rs=AOn4CLCadoxpkHtycpqacLjC2xQfTSghqg" alt="Youtube video map generation" height="75px"/>
     </a>
     <a href="https://www.youtube.com/watch?v=aEoKkkrifrQ">
-      <img src="https://i.ytimg.com/an_webp/aEoKkkrifrQ/mqdefault_6s.webp?du=3000&sqp=CNSh1qkG&rs=AOn4CLDg2daGv6Aig-3ImE_lmh_jOKRW4w" alt="Youtube video" height="75px"/>
+      <img src="https://i.ytimg.com/an_webp/aEoKkkrifrQ/mqdefault_6s.webp?du=3000&sqp=CNSh1qkG&rs=AOn4CLDg2daGv6Aig-3ImE_lmh_jOKRW4w" alt="Youtube video cars" height="75px"/>
     </a>
     <a href="https://www.youtube.com/watch?v=KxlUuE6jKhM">
-      <img src="https://i.ytimg.com/an_webp/KxlUuE6jKhM/mqdefault_6s.webp?du=3000&sqp=CNSv1qkG&rs=AOn4CLAiSHG_z9lbVBAjjTgFOxRdOAvYtg" alt="Youtube video" height="75px"/>
+      <img src="https://i.ytimg.com/an_webp/KxlUuE6jKhM/mqdefault_6s.webp?du=3000&sqp=CNSv1qkG&rs=AOn4CLAiSHG_z9lbVBAjjTgFOxRdOAvYtg" alt="Youtube video soft bodies" height="75px"/>
+    </a>
+    <a href="https://www.youtube.com/watch?v=Ew4BtFJkNJY">
+      <img src="https://i.ytimg.com/an_webp/Ew4BtFJkNJY/mqdefault_6s.webp?du=3000&sqp=CMDY1qkG&rs=AOn4CLBoIaVc1UCZQeQpbLaL_axjfRoVGQ" alt="Youtube video raycasting" height="75px"/>
     </a>
 </p>
