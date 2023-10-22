@@ -9,10 +9,10 @@ I am also one of the founders of <a href="https://sportcooks.fr">Sportcooks</a>,
   <a href="https://www.linkedin.com/in/dorian-biagi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC2bqHEOtdeDQk3krOYv5ipQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.youtube.com/channel/UC2bqHEOtdeDQk3krOYv5ipQ" width="150px" height="30px">
+    <img src="https://ibb.co/Y0jDjSG" alt="Youtube Badge"/>
   </a>
-  <a href="https://scratch.mit.edu/users/Dairop" width="200px" height="40px" class="background: orange">
-    <img src="https://i.ibb.co/SJhXdgF/scratch-265k.png"/>
+  <a href="https://scratch.mit.edu/users/Dairop" width="150px" height="30px" class="background: orange">
+    <img src="https://i.ibb.co/SJhXdgF/scratch-265k.png" alt="Scratch Badge/>
   </a>
 </p>
