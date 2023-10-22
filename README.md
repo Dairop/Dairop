@@ -18,7 +18,13 @@ I am also one of the founders of <a href="https://sportcooks.fr">Sportcooks</a>,
 </p>
 
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/m3RL3q7mTx0" title="Generate entire Worlds and Countries  !   -  C++ / SFML" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/aEoKkkrifrQ" title="Neural Network learns how to drive (and drift)  in C++ / SFML" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/KxlUuE6jKhM" title="Soft bodies experiments in python" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <a href="https://www.youtube.com/watch?v=m3RL3q7mTx0">
+      <img src="https://i.ytimg.com/an_webp/m3RL3q7mTx0/mqdefault_6s.webp?du=3000&sqp=CNjM1qkG&rs=AOn4CLCadoxpkHtycpqacLjC2xQfTSghqg" alt="Youtube video" height="75px"/>
+    </a>
+    <a href="https://www.youtube.com/watch?v=aEoKkkrifrQ">
+      <img src="https://i.ytimg.com/an_webp/aEoKkkrifrQ/mqdefault_6s.webp?du=3000&sqp=CNSh1qkG&rs=AOn4CLDg2daGv6Aig-3ImE_lmh_jOKRW4w" alt="Youtube video" height="75px"/>
+    </a>
+    <a href="https://www.youtube.com/watch?v=KxlUuE6jKhM">
+      <img src="https://i.ytimg.com/an_webp/KxlUuE6jKhM/mqdefault_6s.webp?du=3000&sqp=CNSv1qkG&rs=AOn4CLAiSHG_z9lbVBAjjTgFOxRdOAvYtg" alt="Youtube video" height="75px"/>
+    </a>
 </p>
