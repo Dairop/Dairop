@@ -27,7 +27,4 @@ I am also one of the founders of <a href="https://sportcooks.fr">Sportcooks</a>,
     <a href="https://www.youtube.com/watch?v=KxlUuE6jKhM">
       <img src="https://i.ytimg.com/vi/KxlUuE6jKhM/maxresdefault.jpg" alt="Youtube video soft bodies" height="95px"/>
     </a>
-    <a href="https://www.youtube.com/watch?v=Ew4BtFJkNJY">
-      <img src="https://i.ytimg.com/vi/Ew4BtFJkNJY/maxresdefault.jpg" alt="Youtube video raycasting" height="95px"/>
-    </a>
 </p>
