@@ -7,7 +7,7 @@ I am also one of the founders of <a href="https://sportcooks.fr">Sportcooks</a>,
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dorian-biagi/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30px"/>
   </a>
   <a href="https://www.youtube.com/channel/UC2bqHEOtdeDQk3krOYv5ipQ">
     <img src="https://i.ibb.co/xF5m5bQ/youtube-140.png" alt="Youtube Badge" height="30px"/>
