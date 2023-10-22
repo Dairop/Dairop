@@ -12,7 +12,7 @@ I am also one of the founders of <a href="https://sportcooks.fr">Sportcooks</a>,
   <a href="https://www.youtube.com/channel/UC2bqHEOtdeDQk3krOYv5ipQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="Scratch">
+  <a href="https://scratch.mit.edu/users/Dairop">
     <img src="https://scratch.mit.edu/favicon.ico"/>
   </a>
 </p>
