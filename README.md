@@ -19,7 +19,7 @@ I am also one of the founders of <a href="https://sportcooks.fr">Sportcooks</a>,
 
 <p align="left">
     <a href="https://www.youtube.com/watch?v=m3RL3q7mTx0">
-      <img src="https://i.ytimg.com/an_webp/m3RL3q7mTx0/mqdefault_6s.webp" alt="Youtube video map generation" height="75px"/>
+      <img src="https://i9.ytimg.com/vi/aEoKkkrifrQ/mqdefault.jpg?v=61c8901e&sqp=CPzn1qkG&rs=AOn4CLD5IXHE-TVfoREdd1FmGr7-QSpuhw" alt="Youtube video map generation" height="75px"/>
     </a>
     <a href="https://www.youtube.com/watch?v=aEoKkkrifrQ">
       <img src="https://i.ytimg.com/an_webp/aEoKkkrifrQ/mqdefault_6s.webp" alt="Youtube video cars" height="75px"/>
