@@ -4,7 +4,8 @@ on YouTube and Scratch. The latter is a website to learn coding where you can al
 advanced projects if you don't fear doing a lot of optimization !
 
 As you can see from my Github, C++ is my favorite language but I enjoy all sort of projects and (almost) every language.
-I am also one of the founders of <a href="https://sportcooks.fr">Sportcooks</a>, a new cooking website for athletes.
+I am also one of the founders of <a href="https://sportcooks.fr">Sportcooks</a>, a new cooking website for athletes that 
+already has thousands of daily impressions.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dorian-biagi/">
