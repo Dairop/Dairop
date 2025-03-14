@@ -1,4 +1,4 @@
-### I'm a CS student that enjoy coding, mostly softwares and AI.
+### I'm a CS student who enjoy coding, mostly softwares, websites and AI.
 I have different social media platforms about my projets cumulating a total of around 285k views, mostly 
 on YouTube and Scratch. The latter is a website to learn coding where you can also do more 
 advanced projects if you don't fear doing a lot of optimization !
